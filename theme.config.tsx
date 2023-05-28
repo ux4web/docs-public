@@ -2,17 +2,19 @@ import React from 'react'
 import { DocsThemeConfig } from 'nextra-theme-docs'
 
 const config: DocsThemeConfig = {
-  logo: <span>My Project</span>,
+  logo: <span>Docs - ux4web</span>,
   project: {
-    link: 'https://github.com/shuding/nextra-docs-template',
+    link: 'https://ux4web.com',
+    icon: '👋',
   },
-  chat: {
-    link: 'https://discord.com',
-  },
-  docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
+  // chat: {
+  //   link: 'https://discord.com',
+  // },
+  docsRepositoryBase: 'https://github.com/ux4web/docs',
   footer: {
-    text: 'Nextra Docs Template',
+    text: 'Chaman Sharma | ux4web - All Rights Reserved 2023',
   },
+  faviconGlyph: '⚡',
 }
 
 export default config

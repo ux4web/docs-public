@@ -1,15 +1,20 @@
 {
   "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
+  "brands": "Startup Projects",
   "about": {
     "title": "About",
     "type": "page"
   },
-  "contact": {
-    "title": "Contact ↗",
+  "deck": {
+    "title": "Work Deck ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://ux4web.com/ux_consultant.pdf",
+    "newWindow": true
+  },
+  "linkedin": {
+    "title": "LinkedIn ↗",
+    "type": "page",
+    "href": "https://linkedin.com/in/ux4web",
     "newWindow": true
   }
 }
