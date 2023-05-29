@@ -10,7 +10,7 @@ const config: DocsThemeConfig = {
   // chat: {
   //   link: 'https://discord.com',
   // },
-  docsRepositoryBase: 'https://github.com/ux4web/docs',
+  docsRepositoryBase: 'https://github.com/ux4web/docs-public/tree/main',
   footer: {
     text: 'Chaman Sharma | ux4web - All Rights Reserved 2023',
   },
